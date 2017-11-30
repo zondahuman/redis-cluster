@@ -5,13 +5,6 @@ import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Target;
 
-/**
- * 
- * @ClassName:Cache 
- * @Description:
- * @author:lyc
- * @date:2015年6月15日 下午7:15:57
- */
 
 @Retention(RetentionPolicy.RUNTIME)
 @Target(ElementType.METHOD)

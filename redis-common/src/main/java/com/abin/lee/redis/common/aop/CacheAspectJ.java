@@ -17,12 +17,7 @@ import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 import java.util.Date;
 
-/**
- * @ClassName:CacheAspectJ
- * @Description:
- * @author:lyc
- * @date:2015年6月15日 下午6:01:47
- */
+
 @Aspect
 @Component
 public class CacheAspectJ implements Ordered {
